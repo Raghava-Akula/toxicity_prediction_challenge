@@ -1,7 +1,7 @@
 **Toxicity Prediction challenge - (Kaggle competition)**
  
 **Authors**:
-	Name: Ravjot Singh, Raghava Akula 
+	 Ravjot Singh, Raghava Akula 
 	Student Id: 202005149, 202003025
 	Email id: x2020fjv@stfx.ca, x2020dxm@stfx.ca 
 ***********************************************************************************************************************************
